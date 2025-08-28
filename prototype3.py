@@ -1,4 +1,4 @@
-# VERSION 3 (final full solution)
+# VERSION 3 (final full solution
 import json
 
 energy_sources_v3 = [
